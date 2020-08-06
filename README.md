@@ -1,4 +1,4 @@
 # my-first-github-repository
 My first Github repository
 
-README.md file was just edited manually. This file was modified locally.
+This file was modified manually during confict resolution.
